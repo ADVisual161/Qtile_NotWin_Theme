@@ -8,5 +8,5 @@ thanks to
 
 [L4ki](https://github.com/L4ki/Relax-Plasma-Themes) @ Relax-Plasma-Themes for the GTK theme
 
-[sonakinci41](https://github.com/sonakinci41/DamaDamas-icon-theme) @DamaDamas-icon-theme for the icon set
+[sonakinci41](https://github.com/sonakinci41/DamaDamas-icon-theme) @ DamaDamas-icon-theme for the icon set
 
