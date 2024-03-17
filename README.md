@@ -1,7 +1,7 @@
 # Qtile_NotWin_Theme
 my personal desktop qtile config theme
 
-![SS](Qtile_NotWin_Theme/SS1.png "ScreenShot")
+![SS](SS1.png "ScreenShot")
 
 thanks to 
 
